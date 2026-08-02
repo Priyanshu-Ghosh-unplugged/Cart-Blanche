@@ -1,0 +1,9 @@
+.env
+.env.example
+/.agent
+/.claude
+/template_clone/*
+*/template_clone
+node_modules
+node_modules/*
+template_clone/*
